@@ -9,11 +9,11 @@ A UK-based developer exploring the worlds of virtual reality and cybersecurity.
 ---
 
 ### Cyber Security Journey
-I'm currently sharpening my skills on [**TryHackMe**](https://tryhackme.com/p/Longno).
+I'm currently testing my skills on [**TryHackMe**](https://tryhackme.com/p/Longno).
 
-### Current Project: VRChat OSC Tool
-I'm building a cool Watch menu for GorillaTag. Feel free to explore the repository and contribute!
-➡️ [**View Project on GitHub**](https://github.com/Longno12/GTAG-Watch-Menu)
+### Current Project: Nothing
+View My Most Recent Project Below
+➡️ [**Most Recent Project**](https://github.com/Longno12/Website-Template)
 
 ---
 
