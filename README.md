@@ -13,7 +13,7 @@ I'm currently testing my skills on [**TryHackMe**](https://tryhackme.com/p/Longn
 
 ### Current Project: Nothing
 View My Most Recent Project Below
-➡️ [**Most Recent Project**](https://github.com/Longno12/Website-Template)
+➡️ [**Most Recent Project**](https://github.com/Longno12/MineMogul-Mod-Menu)
 
 ---
 
